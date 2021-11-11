@@ -1,0 +1,12 @@
+modLoader = "javafml"
+loaderVersion = "[36,)"
+license = "All rights reserved"
+[[mods]]
+	modId = "minecraftdot"
+	version = "${file.jarVersion}"
+	displayName = "Minecraft."
+	credits = "Hoax#5755 on discord"
+	authors = "TurtyWurty"
+	description = '''
+	.
+	'''

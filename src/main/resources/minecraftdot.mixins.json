@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "io.github.darealturtywurty.minecraftdot.mixin",
+	"compatabilityLevel": "JAVA_8",
+	"refmap": "minecraftdot.refmap.json",
+	"mixins": [
+		
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"minVersion": "0.8"
+}
